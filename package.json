@@ -1,0 +1,16 @@
+{
+  "name": "github_gph",
+  "version": "1.0.0",
+  "description": "the graph contribution is shown here only!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amansrv",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "simple-git": "^3.20.0"
+  }
+}
